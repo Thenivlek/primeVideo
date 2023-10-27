@@ -13,8 +13,8 @@ Este é um projeto de portfólio que replica o aplicativo Prime Video.
 
 ## Capturas de Tela
 
-![Tela Inicial](/readmeImages/firstimage.png)
-![Reprodução de Vídeo](/readmeImages/secondImage.png)
+![Tela Inicial](/readmeImages/firstimage.jpg)
+![Reprodução de Vídeo](/readmeImages/secondImage.jpg)
 
 ## Como Executar
 
